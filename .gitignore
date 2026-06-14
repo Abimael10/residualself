@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling caches
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Local-only docs (kept on disk, never published)
+CLAUDE.md
+SPEC.md
